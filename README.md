@@ -1,3 +1,11 @@
+# 本人仅改变封面、格式排版布局、字体字号等以符合南京师范大学对硕士学位论文提交的要求，书脊线等请自行想办法解决；
+# 根据所改变的地方，大多数不需要额外说明，没有改变SJTUTex的基本框架，根据源作者的指示编译成功后的样本PDF可以在第一章Intro看到一些小小的改动说明：
+![image](https://github.com/user-attachments/assets/1321faee-d18d-4270-a7b0-e70e5e97422e)
+![image](https://github.com/user-attachments/assets/311ab2f8-054f-430b-bf48-83a230725c52)
+有问题可以联系 phylmf@njnu.edu.cn。
+# 以下的ReadMe文件来源于源模板的GitHub页面：
+https://github.com/sjtug/SJTUThesis
+
 # SJTUThesis 示例模板
 
 [![Build Status](https://github.com/sjtug/SJTUThesis/actions/workflows/build.yml/badge.svg)](https://github.com/sjtug/SJTUThesis/actions)
