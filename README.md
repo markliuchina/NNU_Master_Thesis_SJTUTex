@@ -9,6 +9,7 @@ https://github.com/sjtug/SJTUThesis
 （2024.9.4 更新）
 有朋友反映在Windows上无法编译，请Windows用户从右侧的release下载压缩包后，用如Bandizip的智能解压模式解压（一键解压），解压后的文件夹即可正常编译，亲测有效。
 还有一个办法，如果你可以正常编译SJTUThesis，用Source Code的文件全部替换原版的文件夹目录，亲测有效。
+另外，标题的黑体加粗问题已经修复，请下载release中最新的“NNU_Master_Thesis.zip”。
 祝愿使用愉快！顺利毕业。
 
 # SJTUThesis 示例模板
