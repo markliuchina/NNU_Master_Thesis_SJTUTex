@@ -92,7 +92,7 @@
       },
     { subject }
       {
-        format      = \vspace {10 pt} \zihao { -1 } \setbaselineskip { 30 bp } \heiti,
+        format      = \vspace {10 pt} \zihao { -1 } \setbaselineskip { 30 bp } \heiti \bfseries,
         content     = {硕\kern0.6em士\kern0.6em学\kern0.6em位\kern0.6em论\kern0.6em文},
         bottom-skip = \c_zero_dim plus  0.5 fill
       },
