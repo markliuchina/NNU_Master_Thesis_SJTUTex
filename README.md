@@ -1,4 +1,6 @@
 # NNUThesis (Modified from SJTUThesis) 移植简介
+【20241224更新|使用方法】1. 成功编译SJTUTex后，用把这个项目的sourcecode把全部内容覆盖掉，然后再编译；2. 从这个项目的releases里面下载那个NNU_Master_Thesis.zip的压缩包，解压后，运行compile.bat文件，先加--clean参数清理所有文件，再利用--thesis参数，从头到尾编译；3. 打开VSCode，在contents里面添加每一个章节的tex文件，并在主项目main.tex中编译，授权书等适宜见样例PDF中的说明，一次编译后，即可在VScode中直接编译、预览；4. 使用方法和SJTUTex没有任何区别，有问题直接查SJTUTex的源文档，我实在无力再包装、进一步改进。
+
 本人仅改变封面、格式排版布局、字体字号等以符合南京师范大学对硕士学位论文提交的要求，书脊线等请自行想办法解决；
 根据所改变的地方，大多数不需要额外说明，没有改变SJTUTex的基本框架，根据源作者的指示编译成功后的样本PDF可以在第一章Intro看到一些小小的改动说明：
 ![image](https://github.com/user-attachments/assets/db1721eb-9754-4f80-abcd-e961f9e66033)
